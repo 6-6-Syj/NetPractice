@@ -162,6 +162,9 @@ Block Size: 256 - 192 = 64<br>
 192.168.1.64 to 192.168.1.127 (Network: .64, Broadcast: .127)<br>
 192.168.1.128 to 192.168.1.191<br>
 192.168.1.192 to 192.168.1.255<br>
+
+<p align="center"> <img src="img/array.png" alt="CIDR chart" width="50%"/> <br><sub><em>IPV4 CIDR Chart</em></sub> </p>
+
 <br></details>
 
 <details> <summary><strong>🔗 TCP/IP Protocols</strong></summary><br>
